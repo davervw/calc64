@@ -14,3 +14,5 @@ RUN
 Use ``STOP`` to quit
 
 ![Calc64](calc64.png)
+
+Link: [blog entry](https://techwithdave.davevw.com/2024/02/calculator-for-commodore-64-and-other.html)
