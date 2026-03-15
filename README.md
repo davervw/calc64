@@ -13,6 +13,8 @@ LOAD"CALC64",8
 RUN
 ````
 
+*WARNING*: must not use ,1 option as it will load at C64 screen memory, or overwrite memory of other systems inappropriately
+
 Use ``STOP`` to quit
 
 ![Calc64](calc64.png)
